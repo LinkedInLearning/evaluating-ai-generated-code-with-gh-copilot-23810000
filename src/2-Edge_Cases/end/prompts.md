@@ -1,0 +1,1 @@
+This program fails when the EOF character is entered. Please avoid a crash in that case and just treat it as an invalid input.
