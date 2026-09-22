@@ -1,0 +1,1 @@
+Create a program that plays music on demand, by playing sequences of musical notes. Create a repertoire for the demo program: Moonlight Sonata, Eine Kleine Nachtmusik, Happy Birthday, Jingle Bells.
