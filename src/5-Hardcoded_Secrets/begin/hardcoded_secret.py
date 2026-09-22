@@ -10,11 +10,9 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 
-# Replace these placeholders with your own values for local experimentation.
-#GITHUB_USERNAME = "your-github-username"
-GITHUB_USERNAME  = "kuashio"
-#GITHUB_TOKEN = "your-github-personal-access-token"
-GITHUB_TOKEN  = "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"
+# Replace these placeholders with your own values.
+GITHUB_USERNAME = "your-github-username"
+GITHUB_TOKEN = "your-github-personal-access-token"
 GITHUB_USER_ENDPOINT = "https://api.github.com/user"
 
 
