@@ -1,0 +1,1 @@
+Write a Python program that keeps a to-do list saved in a JSON file. It should let the user view their tasks, add a new task, and remove a task by its ID. Each new task should get an ID one higher than the current highest ID in the file.

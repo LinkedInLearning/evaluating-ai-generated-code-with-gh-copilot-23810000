@@ -1,0 +1,1 @@
+Write a self-contained Python script that authenticates to the GitHub REST API using a username and personal access token. Send a request to https://api.github.com/user, display the authenticated username, and handle authentication and network errors. Use only Python’s standard library.

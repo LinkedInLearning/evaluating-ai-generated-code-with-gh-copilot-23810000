@@ -1,0 +1,1 @@
+Write a Python function that takes a list of numbers and removes all the even numbers from it in-place.
