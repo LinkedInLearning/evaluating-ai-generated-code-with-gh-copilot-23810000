@@ -38,6 +38,7 @@ class ShippingQuoteTests(unittest.TestCase):
 
 	def test_large_order_gets_free_shipping(self):
 		quote = order_summary([("backpack", 65.00)])
+		
 		self.assertEqual(quote["shipping"], 0.00)
 
 	def test_total_includes_shipping_for_a_small_order(self):
