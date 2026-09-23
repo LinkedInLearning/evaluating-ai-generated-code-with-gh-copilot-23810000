@@ -26,7 +26,7 @@ Work through the loop yourself:
    without crashing?
 4. **Improve** it. Write down what you'd change to fix what you found. Implement the fix either by modifying the code yourself, or by asking GitHub Copilot to fix it for you. Remember to be clear in your prompts.
 
-## Before lookig at our solution
+## Before looking at our solution
 
 Make a short note describing:
 - What input exposed the problem
