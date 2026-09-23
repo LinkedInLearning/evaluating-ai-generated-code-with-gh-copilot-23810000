@@ -1,0 +1,1 @@
+Create a standalone Python expense ledger using argparse and sqlite3. Use built-in demo expenses when no arguments are provided. Support custom expenses in DESCRIPTION:AMOUNT format and an optional --save DATABASE argument.
