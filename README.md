@@ -5,7 +5,16 @@ This is the repository for the LinkedIn Learning course `Evaluating AI-Generated
 
 ## Course Description
 
-_See the readme file in the main branch for updated instructions and information._
+AI coding assistants can generate working code quickly, but working code isn't necessarily correct code. In this course, discover a practical process for evaluating AI-generated Python code before relying on it in your projects. Join instructor Eduardo Corpeño, electrical engineer, computer programmer, and teacher, as he shows you how to use GitHub Copilot with a five-step framework: generate, inspect, test, verify, and improve. Explore practical examples involving intent mismatches, edge cases, hidden assumptions, fabricated methods, sensitive data, and incomplete test suites. Along the way, learn how to apply the complete evaluation loop in hands-on challenges and build a more systematic approach to reviewing AI-generated code before you use it.
+
+## Learning Objectives
+
+- Apply a five-step framework to generate, inspect, test, verify, and improve AI-generated Python code.
+- Identify intent mismatches, edge cases, hidden assumptions, and fabricated functionality in AI-generated code.
+- Identify hard-coded sensitive data and evaluate approaches for keeping credentials out of source code.
+- Evaluate AI-generated test suites for missing cases that can allow defects to go undetected.
+- Use testing and verification results to improve AI-generated code and confirm that the revised code meets the intended behavior.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -32,17 +41,18 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Eduardo Corpeño
+Electrical Engineer, Computer Programmer, and Teacher for 15+ years
 
-Instructor description
+Eduardo is a proud graduate of the Online Master of Science in Computer Science program from Georgia Tech. He has published over 20 online courses on topics such as microcontrollers, embedded systems, and solving engineering problems. At Galileo University, Guatemala City, he teaches a variety of subjects, including electrical circuit theory, computer architecture, microcontrollers, and printed circuit board design. Along with some colleagues, Eduardo created one of the first MOOCs in Spanish in 2013—an introduction to the Raspberry Pi— and later translated to Spanish The RISC-V Reader: An Open Architecture Atlas by Turing Award laureate David Patterson and Andrew Waterman.
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eduardo-corpeno?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/evaluating-ai-generated-code-with-github-copilot/catching-a-scope-mismatch-in-github-copilot-s-code?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQFRiZ-39RIipQ/learning-public-crop_675_1200/B56aDqFIQUIEAY-/0/1790633608528?e=2147483647&v=beta&t=YjbIdybPMHDBLgie3SDu0VC5VMUg6AqIFv2zoaHiR5E
 
